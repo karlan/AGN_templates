@@ -1,13 +1,22 @@
 ## Content
 
 * A library of (semi-)empirical SED templates to reconcile the dust emission of type-1 AGNs with a wide range of luminosity (<a href="https://www.codecogs.com/eqnedit.php?latex=L_{\rm&space;bol}\sim10^8-10^{14}L_\odot" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{\rm&space;bol}\sim10^8-10^{14}L_\odot" title="L_{\rm bol}\sim10^8-10^{14}L_\odot" /></a>) and redshift (<a href="https://www.codecogs.com/eqnedit.php?latex=z\sim0-6" target="_blank"><img src="https://latex.codecogs.com/gif.latex?z\sim0-6" title="z\sim0-6" /></a>), as developed in 
-  * [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) (variations of intrinsic AGN IR emission); 
-  * [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L) (intrinsic AGN far-IR emission);
+  * [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) (variations of AGN intrinsic IR emission); 
+  * [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L) (re-check of AGN intrinsic far-IR emission);
   * [Lyu & Rieke 2018]()(the effect of polar dust component).
 
-Normal  AGNs    |   Warm-dust-Deficient AGNs   | Hot-Dust-Deficient AGNs 
-:--------------:|:----------------------------:|:------------------------:
-![]()   | ![]() | ![]()
+Three falvors of AGN intrinsic IR emision|
+:--------------------------------------------:|
+![](https://github.com/karlan/AGN_templates/raw/master/plots/AGN_intrinsic_template.png)|
+Comparison of the hot-dust-deficient (HDD) AGN template (left panel, red solid line) and the warm-dust-deficient (WDD) template (right panel, green solid line) to the normal Elvis et al. (1994) AGN template (far-IR corrected by Xu et al. 2015; blue solid line).|
+see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) for details|
+
+
+| <td colspan=3> Demonstrations of Reddened AGN templates    
+:----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
+![](https://github.com/karlan/AGN_templates/raw/master/plots/NGC3783.png)  |  ![](https://github.com/karlan/AGN_templates/raw/master/plots/ERQ.png)|  ![](https://github.com/karlan/AGN_templates/raw/master/plots/HotDOG.png)
+  NGC 3783: a Seyfert-1 nuclei with confirmed polar dust emission |   Extremely Red Quasars  |  Hot Dust-Obscured Galaxies
+| <td colspan=3> see [Lyu & Rieke 2018]() for details   
 
 * AGN host galaxy templates that has been used for low-z works at z<4 and z\sim4-6
 
