@@ -4,8 +4,13 @@
 
 * Various AGN host galaxy far-IR templates that works at z<4 and z\sim4-6
 
-<img src="https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png" width="128"/>
-<img src="https://github.com/karlan/AGN_templates/raw/master/plots/stellar_template.png" width="128"/>
+<div class="row">
+<div class="column">
+<img src="https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png" alt="comparison of galaxy FIR templates" style="width:80%"/>
+</img>div>
+<div class="column">
+<img src="https://github.com/karlan/AGN_templates/raw/master/plots/stellar_template.png" alt="template for old stellar emission" style="width:40%"/>
+</img>div>
 
 ## Directory information
 
