@@ -4,16 +4,9 @@
 
 * Various AGN host galaxy far-IR templates that works at z<4 and z\sim4-6
 
-<div class="row">
-<div class="column">
-<img src="https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png" alt="comparison of galaxy FIR templates" width="300"/>
-</img>
-</div>
-<div class="column">
-<img src="https://github.com/karlan/AGN_templates/raw/master/plots/stellar_template.png" alt="template for old stellar emission" width="300"/>
-</img>
-</div>
-</div>
+Solarized dark                                                                |  Solarized Ocean
+:----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
+![](https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png)  |  ![](https://github.com/karlan/AGN_templates/raw/master/plots/stellar_template.png)
 
 
 ## Directory information
