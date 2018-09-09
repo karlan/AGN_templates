@@ -4,7 +4,7 @@
 
 * Various AGN host galaxy far-IR templates that works at z<4 and z\sim4-6
 
-Solarized dark                                                                |  Solarized Ocean
+  Host galaxy FIR templates                                                   |   Host galaxy stellar emission template
 :----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
 ![](https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png)  |  ![](https://github.com/karlan/AGN_templates/raw/master/plots/stellar_template.png)
 
