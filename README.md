@@ -11,8 +11,7 @@ Normal  AGNs    |   Warm-dust-Deficient AGNs   | Hot-Dust-Deficient AGNs
 Host galaxy FIR templates                                                     |   Host galaxy stellar emission template
 :----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
 ![](https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png)  |  ![](https://github.com/karlan/AGN_templates/raw/master/plots/stellar_template.png)
-Comparison of Haro 11 template (red line) and the normal star-forming galaxy templates with log LIR = 9.75 ~ 11.50 in Rieke et al. (2009) (blue lines). All the templates are normalized to have the same LIR,template. |Comparisons of different stellar templates. We derive an empirical template by replacing a Bruzual & Charlot (2003) 7 Gyr SSP SED template with the mid-IR (6–20 μm) stellar template and a power-law SED (λ >20 μm). We plot the individual Spitzer/IRS spectra used to derived the mid-IR template as grey lines. The original Bruzual & Charlot (2003) and the elliptical galaxy templates with age 2, 5 and 13 Gyr from the SWIRE library (Polletta et al. 2007) are also presented.
-
+Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke et al. (2009) (blue lines). | Comparisons of different stellar templates. 
 
 ## Directory information
 
