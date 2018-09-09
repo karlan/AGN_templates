@@ -11,7 +11,7 @@ Normal  AGNs    |   Warm-dust-Deficient AGNs   | Hot-Dust-Deficient AGNs
 Host galaxy FIR templates                                                     |   Host galaxy stellar emission template
 :----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
 ![](https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png)  |  ![](https://github.com/karlan/AGN_templates/raw/master/plots/stellar_template.png)
-Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke et al. (2009) (blue lines). | Comparisons of different stellar templates. 
+Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke et al. (2009) (blue lines). | Comparisons of different stellar templates. The final empirical stellar template is shown as a green line.
 
 ## Directory information
 
