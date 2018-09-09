@@ -1,4 +1,5 @@
-# lambda(micron), flux_jy (jansky-like)   BC03 model with mid-IR dust features
+# Stellar emission template for old stellar population with mid-IR dust features (see Section 3.2.1 in Lyu & Rieke 2018)
+# lambda(micron), flux_jy (jansky-like)   
       0.0100115      0.0000000
       0.0100346      0.0000000
       0.0100577      0.0000000

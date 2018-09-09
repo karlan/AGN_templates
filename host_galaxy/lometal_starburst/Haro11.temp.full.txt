@@ -1,3 +1,6 @@
+# IR template for Haro 11, a local low-metallicity star-bursting galaxy from Lyu, Rieke & Alberts 2016, ApJ, 816, 85
+# (It is only valid at > 5 microns, no stellar contribution is included.)
+# lambda(micron), flux_jy (jansky-like) 
       0.0100115      0.0000000
       0.0100346      0.0000000
       0.0100577      0.0000000
