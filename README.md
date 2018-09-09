@@ -12,11 +12,11 @@ Comparison of the hot-dust-deficient (HDD) AGN template (left panel, red solid l
 see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) for details|
 
 
-| <td colspan=3> Demonstrations of Reddened AGN templates    
+<td colspan="3"> Demonstrations of Reddened AGN templates </td>   
 :----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
 ![](https://github.com/karlan/AGN_templates/raw/master/plots/NGC3783.png)  |  ![](https://github.com/karlan/AGN_templates/raw/master/plots/ERQ.png)|  ![](https://github.com/karlan/AGN_templates/raw/master/plots/HotDOG.png)
   NGC 3783: a Seyfert-1 nuclei with confirmed polar dust emission |   Extremely Red Quasars  |  Hot Dust-Obscured Galaxies
-| <td colspan=3> see [Lyu & Rieke 2018]() for details   
+<td colspan=3> see [Lyu & Rieke 2018]() for details  </td>
 
 * AGN host galaxy templates that has been used for low-z works at z<4 and z\sim4-6
 
