@@ -7,10 +7,14 @@
 <div class="row">
 <div class="column">
 <img src="https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png" alt="comparison of galaxy FIR templates" style="width:80%"/>
-</img>div>
+</img>
+</div>
 <div class="column">
 <img src="https://github.com/karlan/AGN_templates/raw/master/plots/stellar_template.png" alt="template for old stellar emission" style="width:40%"/>
-</img>div>
+</img>
+</div>
+</div>
+
 
 ## Directory information
 
