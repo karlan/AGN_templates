@@ -6,7 +6,7 @@
 
 <div class="row">
 <div class="column">
-<img src="https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png" alt="comparison of galaxy FIR templates" style="width:80%"/>
+<img src="https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png" alt="comparison of galaxy FIR templates" style="width:40%"/>
 </img>
 </div>
 <div class="column">
