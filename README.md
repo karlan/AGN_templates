@@ -116,7 +116,7 @@ where the AGN templates
 the host galaxy IR template
    
     f_{host_IR} = any of the Rieke+09 templates with loglum = 9.5-12.5, if z <4-5
-                = Haro 11 template, if z>5-6
+                = Haro 11 template, if z=5-7 optically-selected quasars
 
 (to be completed)
 
