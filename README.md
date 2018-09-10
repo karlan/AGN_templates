@@ -157,7 +157,7 @@ template for the polar dust emission to get an estimation.
 
 ### Is there a fitting code for these templates that can be used directly?
 
-Yes, it should be avaliable here by the end of 2019, both in IDL and python
+Yes, it should be avaliable here by the end of 2018, both in IDL and python
 versions.  I'm still doing some tests and cleaning the code. Stay tuned!
 
 ## Cautionary Notes
