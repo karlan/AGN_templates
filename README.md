@@ -1,4 +1,4 @@
-# Emprical SED templates for type-1 AGNs and their host galaxies
+# SED templates for type-1 AGNs and their host galaxies
 
 ## Content
 
@@ -144,8 +144,10 @@ Before any fittings, the host galaxy mid-IR contribution should be properly
 removed (or considered in the SED decompositions).
 
 Find the best reddened AGN templates that matched the overall SEDs together
-with other templates, then look for the f{pol, s+e} column in
-obsagn_temp.[type].index.lis
+with other templates, then look for the corresponding f{pol, s+e} value in
+obsagn_temp.[type].index.lis. f{pol, s+e} is the relative contribution of the
+scattering (s) and emission (e) components of the polar dust at 10 microns
+(f{pol, s+e}= f{pol, s} + f{pol,e}).
 
 You may also combine any one of the three intrinsic AGN templates with the
 template for the polar dust emission to get an estimation.
@@ -171,4 +173,5 @@ versions.  I'm still doing some tests and cleaning the code. Stay tuned!
 
 ## Contact 
 
-  Please contact me if you have any questions via jianwei (at) email.arizona.edu
+  Please contact me via jianwei (at) email.arizona.edu if you have any comments, 
+  questions or suggestions. 
