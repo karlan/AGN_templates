@@ -106,9 +106,9 @@ For a type-1 AGN, its optical to far-IR SED can be modeled by a linear combinati
 
     f_{tot} =  f_{AGN_temp} +  f_{host_IR}  
                                               + f{old_stars}, if z<3-4  
-                                              + f_{AGN,syn},  if it could be radio-loud
+                                              + f_{AGN,syn},  if the AGN is radio-loud
 
-where the AGN templates
+where the AGN component
    
     f_{AGN_temp} = any of the NORM, WDD, or HDD intrinsic AGN template (or a combination of two), if there is 
                    enough reason to believe that the polar dust component is very weak or non-exist.
@@ -116,7 +116,7 @@ where the AGN templates
                  = any of the three intrinsic AGN templates + template for polar dust emission , if only to get
 		   a very crude results
 
-		 Note:
+		 Tips:
 		    1. For reddened type-1 AGNs, you should try NORM, then WDD, and lastly HDD. 
 		       If none of them works, try HDO;
 		    2. It is highly recommanded to use mid-IR spectral decompositions or high-spatial resolution
