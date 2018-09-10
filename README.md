@@ -5,7 +5,7 @@
   * [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L) (re-check of AGN intrinsic far-IR emission);
   * [Lyu & Rieke 2018]()(the effect of polar dust component).
 
-Three falvors of AGN intrinsic IR emision|
+Three flavors of AGN intrinsic IR emision|
 :--------------------------------------------:|
 ![](https://github.com/karlan/AGN_templates/raw/master/plots/AGN_intrinsic_template.png)|
 Comparison of the hot-dust-deficient (HDD) AGN template (left panel, red solid line) and the warm-dust-deficient (WDD) template (right panel, green solid line) to the normal Elvis et al. (1994) AGN template (far-IR corrected by Xu et al. 2015; blue solid line).|
