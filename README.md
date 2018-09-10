@@ -24,7 +24,7 @@ see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) f
 <td> <img src="https://github.com/karlan/AGN_templates/raw/master/plots/HotDOG.png" /> </td> 
 </tr>
 <tr>
-  <td> NGC 3783: a Seyfert-1 nuclei with confirmed polar dust emission </td>
+  <td> NGC 3783: a Seyfert-1 nuclei with confirmed mid-IR polar dust emission </td>
   <td>  Extremely Red Quasars  </td>
   <td> Hot Dust-Obscured Galaxies </td>
   </tr>
