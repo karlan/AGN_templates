@@ -77,10 +77,10 @@ Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke 
        README.md
 
 ## Usage Guidelines
-    "minimalist" 
+ "minimalist" 
     
     
 
 ## Cautionary Notes
-    * All these templates have been interpolated on the same wavelength grids with relatively high spectral resolutions. However, these templates are constructed to reproduced the broad-band SEDs only;
-    * 
+ * All these templates have been interpolated on the same wavelength grids with relatively high spectral resolutions. However, these templates are constructed to reproduced the broad-band SEDs only;
+ * 
