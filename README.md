@@ -162,8 +162,9 @@ versions.  I'm still doing some tests and cleaning the code. Stay tuned!
 
 ## Cautionary Notes
  * All the AGN and galaxy templates have been interpolated on the same
-   wavelength grids with relatively high spectral resolutions. However, these
-   templates are constructed to reproduce the broad-band SEDs only;
+   wavelength grids with relatively high spectral resolutions (0.01-1000
+   microns with 5000 points in log scale). However, these templates are
+   constructed to reproduce the broad-band SEDs only;
 
  * The AGN templates are designed to be used only for type-1 objects (aka. AGNs
    with broad emission lines). We currently do not have a good idea on the IR
