@@ -94,7 +94,7 @@ quasars, IR AGN Selections and the search for pecuilar objects, etc.
     
 
 ### How to use them in SED decompostions? 
-Although these templates are empirically constructed and tested
+Although these AGN templates are empirically constructed and tested
 against various observations, they should be applied correctly to get
 scientifically meaningful results (you should never trust a fitting result only
 because of a very small chi-square). For example, you should not add an old
