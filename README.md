@@ -5,6 +5,8 @@
   * [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L) (re-check of AGN intrinsic far-IR emission);
   * [Lyu & Rieke 2018]()(the effect of polar dust component).
 
+* Empirical IR templates for AGN host galaxies that has been suggested to decomposte the quasars SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
+
 Three flavors of AGN intrinsic IR emision|
 :--------------------------------------------:|
 ![](https://github.com/karlan/AGN_templates/raw/master/plots/AGN_intrinsic_template.png)|
@@ -33,7 +35,6 @@ see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) f
 
 
 
-* Empirical IR templates for AGN host galaxies that has been suggested to decomposte the quasars SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
 
 Host galaxy FIR templates                                                     |   Host galaxy stellar emission template
 :----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
