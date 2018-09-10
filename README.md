@@ -101,13 +101,29 @@ because of a very small chi-square). For example, you should not add an old
 stellar template to fit the SED of a z=5 quasar (the host galaxy is too
 young!).
     
-For a typically low-z type-1 AGN, a possible SED model is
+For a type-1 AGN, its optical to far-IR SED can be modeled by a linear combination of various templates.
 
-    f_{tot} =  f_{AGN_model} + f{old_stars} + f_{host_IR}  (+ f_{AGN,syn}, if it is radio-loud)
+    f_{tot} =  f_{AGN_temp} +  f_{host_IR}  
+                                              + f{old_stars}, if z<3-4  
+                                              + f_{AGN,syn},  if it could be radio-loud
+
+where the AGN templates
+   
+    f_{AGN_temp} = any of the normal, WDD, or HDD intrinsic AGN template (or a combination of two), if there is 
+                   enough reason to believe that the polar dust component is very weak or non-exist.
+                 = any of the reddend AGN templates
+
+the host galaxy IR template
+   
+    f_{host_IR} = any of the Rieke+09 templates with loglum = 9.5-12.5, if z <4-5
+                = Haro 11 template, if z>5-6
 
 (to be completed)
 
 ### How to infer the polar dust emission strength?
+
+Find the best reddened AGN templates that matched the overall SEDs together with other templates, then look for the f{pol, s+e} column
+in obsagn_temp.[type].index.lis
 
 (to be completed)
 
