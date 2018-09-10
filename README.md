@@ -93,10 +93,18 @@ quasars, IR AGN Selections and the search for pecuilar objects, etc.
     
 However, although these templates are empirically constructed and tested
 against various observations, they should be applied correctly to get
-scientifically reasonable results (you should never trust a fitting result only
-because of a very small chi-square).
+scientifically meaningful results (you should never trust a fitting result only
+because of a very small chi-square). For example, you should not add an old
+stellar template to fit the SED of a z=5 quasar (the host galaxy is too
+young!).
     
 
 ## Cautionary Notes
- * All the AGN and galaxy templates have been interpolated on the same wavelength grids with relatively high spectral resolutions. However, these templates are constructed to reproduce the broad-band SEDs only;
- * The AGN templates are designed to be used only for type-1 objects (aka. AGNs with broad emission lines). We currently do not have a good idea on the IR emission behaviors of the "edge-on" torus, given the possible contaminations of polar dust and host galaxy dust.
+ * All the AGN and galaxy templates have been interpolated on the same
+   wavelength grids with relatively high spectral resolutions. However, these
+   templates are constructed to reproduce the broad-band SEDs only;
+
+ * The AGN templates are designed to be used only for type-1 objects (aka. AGNs
+   with broad emission lines). We currently do not have a good idea on the IR
+   emission behaviors of the "edge-on" torus, given the possible contaminations
+   of polar dust and host galaxy dust.
