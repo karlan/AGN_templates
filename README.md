@@ -5,7 +5,7 @@
   * [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L) (the correct SED shape of AGN intrinsic far-IR emission)
   * [Lyu & Rieke 2018]()(the effect of polar dust component; low-z Seyfert-1 nuclei, extremely red quasars, AGNs with warm-excess emission, hot dust-obscured galaxies)
 
-* Empirical IR templates for AGN host galaxies that has been suggested to decomposte the quasars SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
+* Empirical IR templates for AGN host galaxies that have been suggested to decomposte the quasars SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
 
 Three flavors of AGN intrinsic IR emision|
 :--------------------------------------------:|
