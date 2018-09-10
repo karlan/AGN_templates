@@ -91,9 +91,10 @@ various type-1 AGN populations. These templates can be generally applied in
 e.g.,  SED decompositions of galaxies with possible AGN contribution or
 quasars, IR AGN Selections and the search for pecuilar objects, etc.
     
-However, although these templates are empirically calibrated, they should also
-be applied correctly to get scientifically reasonable results (you should never
-trust any fitting results just because the chi-square was very small).
+However, although these templates are empirically constructed and tested
+against various observations, they should be applied correctly to get
+scientifically reasonable results (you should never trust any fitting results
+just because the chi-square was very small).
     
 
 ## Cautionary Notes
