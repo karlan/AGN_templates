@@ -77,10 +77,22 @@ Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke 
        README.md
 
 ## Usage Guidelines
- "minimalist" 
+The AGN templates here have been constructed in a "minimalist" style: we wish
+to build SED models with the numbers of free parameters as small as possible.
+Based on real observations, we derived three intrinsic templates to describe
+the SEDs of accretion disk + torus emission as seen from a face-on viewing
+angle (aka, Type-1), tested their robustness with independent calibrations
+avaliable for PG quasars, and demonstrated such variations could be common at
+different redshifts and AGN luminosities. Then we introduced a very simple
+polar dust model that could obscure the intrinsic AGN templates, and showed
+that it worked reasonablly well to reproduce the polar dust emission strength
+observed in nearby Seyfert-1 nuclei and to reconcile the SED behaviors of
+various type-1 AGN populations. These templates can be generally applied in
+e.g.,  SED decompositions of galaxies with possible AGN contribution or
+quasars, IR AGN Selections and the search for pecuilar objects, etc.
     
     
 
 ## Cautionary Notes
  * All the AGN and galaxy templates have been interpolated on the same wavelength grids with relatively high spectral resolutions. However, these templates are constructed to reproduce the broad-band SEDs only;
- * 
+ * The AGN templates are designed to be used only for type-1 objects (aka. AGNs with broad emission lines). We currently do not have a good idea on the IR emission behaviors of the "edge-on" torus, given the possible contaminations of polar dust and host galaxy dust.
