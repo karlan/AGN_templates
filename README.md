@@ -91,7 +91,9 @@ of various type-1 AGN populations. These templates can be generally applied in
 e.g.,  SED decompositions of galaxies with possible AGN contribution or
 quasars, IR AGN Selections and the search for pecuilar objects, etc.
     
-However, although these templates are empirically constructed and tested
+
+### How to use them in SED decompostions? 
+Although these templates are empirically constructed and tested
 against various observations, they should be applied correctly to get
 scientifically meaningful results (you should never trust a fitting result only
 because of a very small chi-square). For example, you should not add an old
@@ -101,6 +103,10 @@ young!).
 For a typically low-z type-1 AGN, a possible SED model is
 
     f_{tot} =  f_{AGN_model} + f{old_stars} + f_{host_IR}  (+ f_{AGN,syn}, if it is radio-loud)
+
+(to be completed)
+
+### How to infer the polar dust emission strength?
 
 (to be completed)
 
