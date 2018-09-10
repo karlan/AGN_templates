@@ -98,6 +98,11 @@ because of a very small chi-square). For example, you should not add an old
 stellar template to fit the SED of a z=5 quasar (the host galaxy is too
 young!).
     
+For a typically low-z type-1 AGN, a possible SED model is
+
+    f_{tot} =  f_{AGN_model} + f{old_stars} + f_{host_IR}  (+ f_{AGN,syn}, if it is radio-loud)
+
+(to be completed)
 
 ## Cautionary Notes
  * All the AGN and galaxy templates have been interpolated on the same
