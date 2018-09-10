@@ -14,7 +14,7 @@ see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) f
 
 <table>
 <tr>
-<td colspan="3"> Demonstrations of Reddened AGN templates </td>   
+<td colspan="3" align="center"> Demonstrations of Reddened AGN templates </td>   
 </tr>
 <tr>
 <td> <img src="https://github.com/karlan/AGN_templates/raw/master/plots/NGC3783.png" /> </td> 
@@ -26,7 +26,7 @@ see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) f
   <td>  Extremely Red Quasars  </td>
   <td> Hot Dust-Obscured Galaxies </td>
   </tr>
-<td colspan="3"> see [Lyu & Rieke 2018]() for details  </td>
+<td colspan="3" align="center"> see [Lyu & Rieke 2018]() for details  </td>
 </table>
 
 * AGN host galaxy templates that has been used for low-z works at z<4 and z\sim4-6
