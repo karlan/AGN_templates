@@ -163,3 +163,7 @@ template for the polar dust emission to get an estimation.
    of polar dust and host galaxy dust.
 
 (to be completed)
+
+## Contact 
+
+  Please contact me if you have any questions via jianwei (at) email.arizona.edu
