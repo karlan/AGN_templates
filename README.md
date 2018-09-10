@@ -152,3 +152,5 @@ template for the polar dust emission to get an estimation.
    with broad emission lines). We currently do not have a good idea on the IR
    emission behaviors of the "edge-on" torus, given the possible contaminations
    of polar dust and host galaxy dust.
+
+(to be completed)
