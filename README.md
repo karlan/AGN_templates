@@ -14,7 +14,7 @@ see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) f
 
 <table>
 <tr>
-<td colspan="3" align="center"> Demonstrations of Reddened AGN Templates </td>   
+<td colspan="3" align="center"> Usage Demonstrations of the Reddened AGN Templates </td>   
 </tr>
 <tr>
 <td> <img src="https://github.com/karlan/AGN_templates/raw/master/plots/NGC3783.png" /> </td> 
