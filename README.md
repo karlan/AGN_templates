@@ -93,7 +93,8 @@ dust emission strength observed in nearby Seyfert-1 nuclei and to reconcile the
 SED behaviors of various type-1 AGN populations. These templates can be
 generally applied in e.g.,  SED decompositions of galaxies with possible AGN
 contribution or quasars, IR AGN Selections and the search for peculiar objects,
-looking for AGN candidates with strong polar dust emission, etc.
+looking for AGN candidates with strong polar dust emission, credibility check
+of the torus model SEDs from a radiative transfer code.
     
 
 ### How to use them in SED decompositions? 
