@@ -150,9 +150,12 @@ obsagn_temp.[type].index.lis
 You may also combine any one of the three intrinsic AGN templates with the
 template for the polar dust emission to get an estimation.
 
-
-
 (to be completed)
+
+### Is there a fitting code for these templates that can be used directly?
+
+Yes, it should be avaliable here by the end of 2019, both in IDL and python
+versions.  I'm still doing some tests and cleaning the code. Stay tuned!
 
 ## Cautionary Notes
  * All the AGN and galaxy templates have been interpolated on the same
