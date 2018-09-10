@@ -82,5 +82,5 @@ Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke 
     
 
 ## Cautionary Notes
- * All these templates have been interpolated on the same wavelength grids with relatively high spectral resolutions. However, these templates are constructed to reproduce the broad-band SEDs only;
+ * All the AGN and galaxy templates have been interpolated on the same wavelength grids with relatively high spectral resolutions. However, these templates are constructed to reproduce the broad-band SEDs only;
  * 
