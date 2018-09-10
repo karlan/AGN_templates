@@ -7,7 +7,7 @@
 
 * Empirical IR templates for AGN host galaxies that have been suggested to decomposte the quasars SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
 
-Three flavors of AGN intrinsic IR emision|
+Three flavors of type-1 AGN intrinsic IR emision|
 :--------------------------------------------:|
 ![](https://github.com/karlan/AGN_templates/raw/master/plots/AGN_intrinsic_template.png)|
 Comparison of the hot-dust-deficient (HDD) AGN template (left panel, red solid line) and the warm-dust-deficient (WDD) template (right panel, green solid line) to the normal Elvis et al. (1994) AGN template (far-IR corrected by Xu et al. 2015; blue solid line).|
@@ -77,8 +77,10 @@ Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke 
        README.md
 
 ## Usage Guidelines
+    "minimalist" 
+    
+    
 
 ## Cautionary Notes
-
-## Citations
- 
+    * All these templates have been interpolated on the same wavelength grids with relatively high spectral resolutions. However, these templates are constructed to reproduced the broad-band SEDs only;
+    * 
