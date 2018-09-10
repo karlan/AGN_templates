@@ -74,7 +74,7 @@ Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke 
                   Haro11.temp.full.txt       -- Haro 11 far-IR template, suggested to be used for quasar hosts at z>5
             old_stars.temp.full.txt          -- template for old stellar population with mid-IR dust features
     
-       plots/        -- plots for these templates
+       plots/        -- Figures for the README file.
     
        README.md
 
