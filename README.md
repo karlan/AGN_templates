@@ -5,9 +5,9 @@
   * [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L) (the correct SED shape of AGN intrinsic far-IR emission)
   * [Lyu & Rieke 2018]()(the effect of polar dust component; low-z Seyfert-1 nuclei, extremely red quasars, AGNs with warm-excess emission, hot dust-obscured galaxies)
 
-* Empirical IR templates for AGN host galaxies that have been suggested to decomposte the quasars SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
+* Empirical IR templates for AGN host galaxies that have been suggested to decompose the quasars SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
 
-Three flavors of type-1 AGN intrinsic IR emision|
+Three flavors of type-1 AGN intrinsic IR emission|
 :--------------------------------------------:|
 ![](https://github.com/karlan/AGN_templates/raw/master/plots/AGN_intrinsic_template.png)|
 Comparison of the hot-dust-deficient (HDD) AGN template (left panel, red solid line) and the warm-dust-deficient (WDD) template (right panel, green solid line) to the normal Elvis et al. (1994) AGN template (far-IR corrected by Xu et al. 2015; blue solid line).|
@@ -51,13 +51,13 @@ Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke 
     
        AGN_reddend_lib/  
             norm/  
-                  norm-[id].dat    -- reddened templates for normal AGNs, tau_{pol, V}= 0 - 5
+                  norm-[id].dat    -- reddened templates for normal (NORM) AGNs, tau_{pol, V}= 0 - 5
             hdd/  
-                  hdd-[id].dat     -- reddened templates for hot-dust-deficient AGNs, tau_{pol, V}= 0 - 5
+                  hdd-[id].dat     -- reddened templates for hot-dust-deficient (HDD) AGNs, tau_{pol, V}= 0 - 5
             wdd/
-                  wdd-[id].dat     -- reddened tempaltes for warm-dust-deficient AGNs, tau_{pol, V}= 0 - 5
+                  wdd-[id].dat     -- reddened tempaltes for warm-dust-deficient (WDD) AGNs, tau_{pol, V}= 0 - 5
             hdo/  
-                  hdo-[id].dat     -- hot dust-obscured templates for normal AGNs, tau_{pol, V}= 0 - 5
+                  hdo-[id].dat     -- hot dust-obscured (HDO) templates for normal AGNs, tau_{pol, V}= 0 - 5
 
             obsagn_temp.norm.index.lis   -- ID, tau_{pol, V} and f_{pol, 10\mum} information for templates in norm/
             obsagn_temp.hdd.index.lis    --  **** in hdd/           
@@ -83,18 +83,18 @@ to build SED models with the numbers of free parameters as small as possible.
 Based on real observations, we derived three intrinsic templates to describe
 the typical SED shapes of accretion disk + torus emission as seen from a
 face-on viewing angle (aka, Type-1), tested their robustness with independent
-calibrations avaliable for PG quasars, and demonstrated such variations could
+calibrations available for PG quasars, and demonstrated such variations could
 be common at different redshifts and AGN luminosities. Then we introduced a
 very simple polar dust model that could obscure the intrinsic AGN templates,
-and showed that it worked reasonablly well to reproduce the polar dust emission
+and showed that it worked reasonably well to reproduce the polar dust emission
 strength observed in nearby Seyfert-1 nuclei and to reconcile the SED behaviors
 of various type-1 AGN populations. These templates can be generally applied in
 e.g.,  SED decompositions of galaxies with possible AGN contribution or
-quasars, IR AGN Selections and the search for pecuilar objects, looking for AGN
+quasars, IR AGN Selections and the search for peculiar objects, looking for AGN
 candidates with strong polar dust emission, etc.
     
 
-### How to use them in SED decompostions? 
+### How to use them in SED decompositions? 
 Although these AGN templates are empirically constructed and tested
 against various observations, they should be applied correctly to get
 scientifically meaningful results (you should never trust a fitting result only
@@ -110,14 +110,14 @@ For a type-1 AGN, its optical to far-IR SED can be modeled by a linear combinati
 
 where the AGN templates
    
-    f_{AGN_temp} = any of the normal, WDD, or HDD intrinsic AGN template (or a combination of two), if there is 
+    f_{AGN_temp} = any of the NORM, WDD, or HDD intrinsic AGN template (or a combination of two), if there is 
                    enough reason to believe that the polar dust component is very weak or non-exist.
-                 = any of the reddend AGN templates
-                 = any of the three intrinsic AGN templates + template for polar dust emissin , if only to get
+                 = any of the reddened NORM, WDD or HDD AGN templates
+                 = any of the three intrinsic AGN templates + template for polar dust emission , if only to get
 		   a very crude results
 
 		 Note:
-		    1. For reddned type-1 AGNs, you should try NORM, then WDD, and lastly HDD. 
+		    1. For reddened type-1 AGNs, you should try NORM, then WDD, and lastly HDD. 
 		       If none of them works, try HDO;
 		    2. It is highly recommanded to use mid-IR spectral decompositions or high-spatial resolution
 		       SED data to check if the SED results are consistent whenever possible;
