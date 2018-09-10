@@ -90,7 +90,8 @@ and showed that it worked reasonablly well to reproduce the polar dust emission
 strength observed in nearby Seyfert-1 nuclei and to reconcile the SED behaviors
 of various type-1 AGN populations. These templates can be generally applied in
 e.g.,  SED decompositions of galaxies with possible AGN contribution or
-quasars, IR AGN Selections and the search for pecuilar objects, etc.
+quasars, IR AGN Selections and the search for pecuilar objects, looking for AGN
+candidates with strong polar dust emission, etc.
     
 
 ### How to use them in SED decompostions? 
