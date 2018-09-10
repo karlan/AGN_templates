@@ -169,13 +169,14 @@ versions.  I'm still doing some tests and cleaning the code. Stay tuned!
  * The AGN templates are designed to be used only for type-1 objects (aka. AGNs
    with broad emission lines). We currently do not have a good idea on the IR
    emission behaviors of the "edge-on" torus, given the possible contaminations
-   of polar dust and host galaxy dust.
+   of polar dust and host galaxy dust;
 
  * The tau_V associated with the reddened AGN template describes the integrated
    optical depth of the polar dust component, not necessary the value along the
    line-of-sight. tau_v is equal to the radial optical depth of a spherical
-   shell if the dust grains in the polar component are evenly redistributed on
-   the sphere that the dust grains belong to.
+   shell if the dust grains in the polar component at the same radius are
+   evenly redistributed on the same sphere;
+
 
 (to be completed)
 
