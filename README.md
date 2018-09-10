@@ -61,7 +61,7 @@ Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke 
 
             obsagn_temp.norm.index.lis   -- ID, tau_{pol, V} and f_{pol, 10\mum} information for templates in norm/
             obsagn_temp.hdd.index.lis    --  **** in hdd/           
-	    obsagn_temp.wdd.index.lis    --  **** in wdd/
+            obsagn_temp.wdd.index.lis    --  **** in wdd/
             obsagn_temp.hdo.index.lis    --  **** in hdo/
              
     
@@ -112,7 +112,7 @@ where the AGN templates
     f_{AGN_temp} = any of the normal, WDD, or HDD intrinsic AGN template (or a combination of two), if there is 
                    enough reason to believe that the polar dust component is very weak or non-exist.
                  = any of the reddend AGN templates
-		 = any of the three intrinsic AGN templates + template for polar dust emissin , if only to get
+                 = any of the three intrinsic AGN templates + template for polar dust emissin , if only to get
 		   a very crude results
 
 the host galaxy IR template
