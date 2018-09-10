@@ -112,18 +112,30 @@ where the AGN templates
     f_{AGN_temp} = any of the normal, WDD, or HDD intrinsic AGN template (or a combination of two), if there is 
                    enough reason to believe that the polar dust component is very weak or non-exist.
                  = any of the reddend AGN templates
+		 = any of the three intrinsic AGN templates + template for polar dust emissin , if only to get
+		   a very crude results
 
 the host galaxy IR template
    
     f_{host_IR} = any of the Rieke+09 templates with loglum = 9.5-12.5, if z <4-5
                 = Haro 11 template, if z=5-7 optically-selected quasars
+		
 
 (to be completed)
 
 ### How to infer the polar dust emission strength?
 
-Find the best reddened AGN templates that matched the overall SEDs together with other templates, then look for the f{pol, s+e} column
-in obsagn_temp.[type].index.lis
+Before any fittings, the host galaxy mid-IR contribution should be properly
+removed (or considered in the SED decompositions).
+
+Find the best reddened AGN templates that matched the overall SEDs together
+with other templates, then look for the f{pol, s+e} column in
+obsagn_temp.[type].index.lis
+
+You may also combine any one of the three intrinsic AGN templates with the
+template for the polar dust emission to get an estimation.
+
+
 
 (to be completed)
 
