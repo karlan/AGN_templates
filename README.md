@@ -81,19 +81,19 @@ Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke 
 ## Usage Guidelines
 ### introduction
 The AGN templates here have been constructed in a "minimalist" style: we wish
-to build SED models with the numbers of free parameters as small as possible.
-Based on real observations, we derived three intrinsic templates to describe
-the typical SED shapes of accretion disk + torus emission as seen from a
-face-on viewing angle (aka, Type-1), tested their robustness with independent
-calibrations available for PG quasars, and demonstrated such variations could
-be common at different redshifts and AGN luminosities. Then we introduced a
-very simple polar dust model that could obscure the intrinsic AGN templates,
-and showed that it worked reasonably well to reproduce the polar dust emission
-strength observed in nearby Seyfert-1 nuclei and to reconcile the SED behaviors
-of various type-1 AGN populations. These templates can be generally applied in
-e.g.,  SED decompositions of galaxies with possible AGN contribution or
-quasars, IR AGN Selections and the search for peculiar objects, looking for AGN
-candidates with strong polar dust emission, etc.
+to build reasonably good SED models with the least numbers of free parameters
+as possible. Based on real observations, we derived three intrinsic templates
+to describe the typical SED shapes of accretion disk + torus emission as seen
+from a face-on viewing angle (aka, Type-1), tested their robustness with
+independent calibrations available for PG quasars, and demonstrated such
+variations could be common at different redshifts and AGN luminosities. Then we
+introduced a very simple polar dust model that could obscure the intrinsic AGN
+templates, and showed that it worked reasonably well to reproduce the polar
+dust emission strength observed in nearby Seyfert-1 nuclei and to reconcile the
+SED behaviors of various type-1 AGN populations. These templates can be
+generally applied in e.g.,  SED decompositions of galaxies with possible AGN
+contribution or quasars, IR AGN Selections and the search for peculiar objects,
+looking for AGN candidates with strong polar dust emission, etc.
     
 
 ### How to use them in SED decompositions? 
