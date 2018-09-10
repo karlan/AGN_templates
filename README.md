@@ -93,8 +93,8 @@ quasars, IR AGN Selections and the search for pecuilar objects, etc.
     
 However, although these templates are empirically constructed and tested
 against various observations, they should be applied correctly to get
-scientifically reasonable results (you should never trust any fitting results
-just because the chi-square was very small).
+scientifically reasonable results (you should never trust a fitting result only
+because of a very small chi-square).
     
 
 ## Cautionary Notes
