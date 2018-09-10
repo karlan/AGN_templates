@@ -79,7 +79,7 @@ Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke 
        README.md
 
 ## Usage Guidelines
-### introduction
+### Introduction
 The AGN templates here have been constructed in a "minimalist" style: we wish
 to build reasonably good SED models with the least numbers of free parameters
 as possible. Based on real observations, we derived three intrinsic templates
@@ -169,6 +169,12 @@ versions.  I'm still doing some tests and cleaning the code. Stay tuned!
    with broad emission lines). We currently do not have a good idea on the IR
    emission behaviors of the "edge-on" torus, given the possible contaminations
    of polar dust and host galaxy dust.
+
+ * The tau_V associated with the reddened AGN template describes the integrated
+   optical depth of the polar dust component, not necessary the value along the
+   line-of-sight. tau_v is equal to the radial optical depth of a spherical
+   shell if the dust grains in the polar component are evenly redistributed on
+   the sphere that the dust grains belong to.
 
 (to be completed)
 
