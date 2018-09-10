@@ -115,6 +115,9 @@ where the AGN templates
                  = any of the three intrinsic AGN templates + template for polar dust emissin , if only to get
 		   a very crude results
 
+		 For reddned type-1 AGNs, you should try NORM, then WDD, and lastly HDD. 
+		 If none of them works, try HDO.
+
 the host galaxy IR template
    
     f_{host_IR} = any of the Rieke+09 templates with loglum = 9.5-12.5, if z <4-5
