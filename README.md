@@ -17,9 +17,9 @@ see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) f
 <td colspan="3"> Demonstrations of Reddened AGN templates </td>   
 </tr>
 <tr>
-<td>![](https://github.com/karlan/AGN_templates/raw/master/plots/NGC3783.png) </td> 
-<td>![](https://github.com/karlan/AGN_templates/raw/master/plots/ERQ.png) </td>  
-<td>![](https://github.com/karlan/AGN_templates/raw/master/plots/HotDOG.png) </td>
+<td> <img src="https://github.com/karlan/AGN_templates/raw/master/plots/NGC3783.png" /> </td> 
+<td> <img src="https://github.com/karlan/AGN_templates/raw/master/plots/ERQ.png" /> </td> 
+<td> <img src="https://github.com/karlan/AGN_templates/raw/master/plots/hotDOG.png" /> </td> 
 </tr>
 <tr>
   <td> NGC 3783: a Seyfert-1 nuclei with confirmed polar dust emission </td>
