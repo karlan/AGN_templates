@@ -1,3 +1,5 @@
+# Emprical SED templates for type-1 AGNs and their host galaxies
+
 ## Content
 
 * A library of (semi-)empirical SED templates to reconcile the dust emission of type-1 AGNs with a wide range of luminosity (<a href="https://www.codecogs.com/eqnedit.php?latex=L_{\rm&space;bol}\sim10^8-10^{14}L_\odot" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{\rm&space;bol}\sim10^8-10^{14}L_\odot" title="L_{\rm bol}\sim10^8-10^{14}L_\odot" /></a>) and redshift (<a href="https://www.codecogs.com/eqnedit.php?latex=z\sim0-6" target="_blank"><img src="https://latex.codecogs.com/gif.latex?z\sim0-6" title="z\sim0-6" /></a>), as developed in 
@@ -5,7 +7,7 @@
   * [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L) (the correct SED shape of AGN intrinsic far-IR emission)
   * [Lyu & Rieke 2018]()(the effect of polar dust component; low-z Seyfert-1 nuclei, extremely red quasars, AGNs with warm-excess emission, hot dust-obscured galaxies)
 
-* Empirical IR templates for AGN host galaxies that have been suggested to decompose the quasars SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
+* Empirical IR templates for AGN host galaxies that have been suggested to decompose the quasar SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
 
 Three flavors of type-1 AGN intrinsic IR emission|
 :--------------------------------------------:|
@@ -24,7 +26,7 @@ see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) f
 <td> <img src="https://github.com/karlan/AGN_templates/raw/master/plots/HotDOG.png" /> </td> 
 </tr>
 <tr>
-  <td> NGC 3783: a Seyfert-1 nuclei with confirmed mid-IR polar dust emission </td>
+  <td> NGC 3783: a Seyfert-1 AGN with confirmed mid-IR polar dust emission </td>
   <td>  Extremely Red Quasars  </td>
   <td> Hot Dust-Obscured Galaxies </td>
   </tr>
@@ -97,9 +99,9 @@ candidates with strong polar dust emission, etc.
 ### How to use them in SED decompositions? 
 Although these AGN templates are empirically constructed and tested
 against various observations, they should be applied correctly to get
-scientifically meaningful results (you should never trust a fitting result only
+scientifically meaningful results (you should never trust a fitting result merely
 because of a very small chi-square). For example, you should not add an old
-stellar template to fit the SED of a z=5 quasar (the host galaxy is too
+stellar template to fit the SED of a z~5 quasar (the host galaxy is too
 young!).
     
 For a type-1 AGN, its optical to far-IR SED can be modeled by a linear combination of various templates.
@@ -113,8 +115,8 @@ where the AGN component
     f_{AGN_temp} = any of the NORM, WDD, or HDD intrinsic AGN template (or a combination of two), if there is 
                    enough reason to believe that the polar dust component is very weak or non-exist.
                  = any of the reddened NORM, WDD or HDD AGN templates
-                 = any of the three intrinsic AGN templates + template for polar dust emission , if only to get
-		   a very crude results
+                 = any of the three intrinsic AGN templates + template for polar dust emission , if the goal is to 
+		   get very crude estimations
 
 		 Tips:
 		    1. For reddened type-1 AGNs, you should try NORM, then WDD, and lastly HDD. 
@@ -124,7 +126,7 @@ where the AGN component
 		    3. You are suggested to check the optical and the IR SEDs together, especially if
 		       an composite SEDs for a large sample can be built;
 		    4. The polar dust could be clumpy and the galaxy ISM dust may also cause the line-of-sight
-		       obscuration. As a result, it is OK that the UV-optical SED does not fit by the 
+		       obscuration. As a result, it is OK if the individual UV-optical SED is not matched by the 
 		       AGN template.
 
 
