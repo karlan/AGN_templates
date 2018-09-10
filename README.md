@@ -69,7 +69,7 @@ Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke 
             normal_SFGs/  
                   rieke-F[loglum]_temp.txt   -- Rieke + 2009 SFG tempaltes, loglum = alog10(L_{IR}/L_sun)
             lometal_starburst/  
-                  Haro11.temp.full.txt       -- Haro 11 far-IR template
+                  Haro11.temp.full.txt       -- Haro 11 far-IR template, suggested to be used for quasar hosts at z>5
             old_stars.temp.full.txt          -- template for old stellar population with mid-IR dust features
     
        plots/        -- plots for these templates
