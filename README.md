@@ -29,7 +29,11 @@ see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) f
 <td colspan="3" align="center"> see [Lyu & Rieke 2018]() for details  </td>
 </table>
 
-* AGN host galaxy empirical templates that has been suggested to decomposte the quasars SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
+
+
+
+
+* Empirical IR templates for AGN host galaxies that has been suggested to decomposte the quasars SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
 
 Host galaxy FIR templates                                                     |   Host galaxy stellar emission template
 :----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
