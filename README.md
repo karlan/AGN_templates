@@ -180,5 +180,5 @@ versions.  I'm still doing some tests and cleaning the code. Stay tuned!
 
 ## Contact 
 
-  Please contact me via jianwei (at) email.arizona.edu if you have any comments, 
+  Please contact me via _jianwei (at) email.arizona.edu_ if you have any comments, 
   questions or suggestions. 
