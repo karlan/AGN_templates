@@ -116,8 +116,17 @@ where the AGN templates
                  = any of the three intrinsic AGN templates + template for polar dust emissin , if only to get
 		   a very crude results
 
-		 For reddned type-1 AGNs, you should try NORM, then WDD, and lastly HDD. 
-		 If none of them works, try HDO.
+		 Note:
+		    1. For reddned type-1 AGNs, you should try NORM, then WDD, and lastly HDD. 
+		       If none of them works, try HDO;
+		    2. It is highly recommanded to use mid-IR spectral decompositions or high-spatial resolution
+		       SED data to check if the SED results are consistent whenever possible;
+		    3. You are suggested to check the optical and the IR SEDs together, especially if
+		       an composite SEDs for a large sample can be built;
+		    4. The polar dust could be clumpy and the galaxy ISM dust may also cause the line-of-sight
+		       obscuration. As a result, it is OK that the UV-optical SED does not fit by the 
+		       AGN template.
+
 
 the host galaxy IR template
    
