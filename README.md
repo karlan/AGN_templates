@@ -5,7 +5,7 @@
 * A library of (semi-)empirical SED templates to reconcile the dust emission of type-1 AGNs with a wide range of luminosity (<a href="https://www.codecogs.com/eqnedit.php?latex=L_{\rm&space;bol}\sim10^8-10^{14}L_\odot" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{\rm&space;bol}\sim10^8-10^{14}L_\odot" title="L_{\rm bol}\sim10^8-10^{14}L_\odot" /></a>) and redshift (<a href="https://www.codecogs.com/eqnedit.php?latex=z\sim0-6" target="_blank"><img src="https://latex.codecogs.com/gif.latex?z\sim0-6" title="z\sim0-6" /></a>), as developed in 
   * [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) (variations of AGN intrinsic IR emission; normal bright quasars, dust-free/poor quasars)
   * [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L) (the correct SED shape of AGN intrinsic far-IR emission)
-  * [Lyu & Rieke 2018](https://arxiv.org/abs/) (the effects of polar dust component; low-z Seyfert-1 nuclei, extremely red quasars, AGNs with mid-IR warm-excess emission, hot dust-obscured galaxies)
+  * [Lyu & Rieke 2018](https://arxiv.org/abs/1809.03080) (the effects of polar dust component; low-z Seyfert-1 nuclei, extremely red quasars, AGNs with mid-IR warm-excess emission, hot dust-obscured galaxies)
 
 * Empirical IR templates for AGN host galaxies that have been suggested to decompose the quasar SEDs at z=5-7 ([Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L)) and those at z<4 (see [Lyu & Rieke 2017](http://adsabs.harvard.edu/abs/2017ApJ...841...76L))
 
@@ -30,7 +30,7 @@ see [Lyu, Rieke & Shi 2017](http://adsabs.harvard.edu/abs/2017ApJ...835..257L) f
   <td>  Extremely Red Quasars  </td>
   <td> Hot Dust-Obscured Galaxies </td>
   </tr>
-<td colspan="3" align="center"> see  <a href="https://arxiv.org/abs/" rel="nofollow">Lyu &amp; Rieke 2018</a> for details  </td>
+<td colspan="3" align="center"> see  <a href="https://arxiv.org/abs/1809.03080" rel="nofollow">Lyu &amp; Rieke 2018</a> for details  </td>
 </table>
 
 
@@ -42,7 +42,7 @@ Host galaxy FIR templates                                                     | 
 :----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
 ![](https://github.com/karlan/AGN_templates/raw/master/plots/galaxy_fir.png)  |  ![](https://github.com/karlan/AGN_templates/raw/master/plots/stellar_template.png)
 Comparison of Haro 11 template (red line) and the normal SFG templates in Rieke et al. (2009) (blue lines). | Comparisons of different stellar templates. The final empirical stellar template is shown as a green line.
-| see [Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L) for details |  see [Lyu & Rieke 2018](https://arxiv.org/abs/) for details 
+| see [Lyu, Rieke & Alberts 2016](http://adsabs.harvard.edu/abs/2016ApJ...816...85L) for details |  see [Lyu & Rieke 2018](https://arxiv.org/abs/1809.03080) for details 
 
 ## Directory information
 
